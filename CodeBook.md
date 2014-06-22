@@ -78,7 +78,7 @@ fBodyGyroMeanY
 fBodyGyroMeanZ
 fBodyGyroStdX
 fBodyGyroStdY
-BodyGyroStdZ
+fBodyGyroStdZ
 fBodyAccMagMean
 fBodyAccMagStd
 fBodyBodyAccJerkMagMean
@@ -87,4 +87,5 @@ fBodyBodyGyroMagMean
 fBodyBodyGyroMagStd
 fBodyBodyGyroJerkMagMean
 fBodyBodyGyroJerkMagStd
+
 
